@@ -1,7 +1,8 @@
 <h1 align="center">Hello 👋</h1>
 My name is Shirsha Chowdhury. I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.
+
  
- Link to My Personal Website: https://zidane07092000.github.io/Personal-Website
+ <h2 align="center> Link to Personal Website: https://zidane07092000.github.io/Personal-Website</h2>
 
 <h2 align="center">My Coding Stats</h2>
 <img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/f23461a6-8112-4d2b-90be-521c696be0d0.svg" /> 
@@ -24,6 +25,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- My name is Shirsha Chowdhury. I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.
- 
- Link to My Personal Website: https://zidane07092000.github.io/Personal-Website
+
