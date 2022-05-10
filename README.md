@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+ My name is Shirsha Chowdhury. I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.
+ 
+ Link to My Personal Website: https://zidane07092000.github.io/Personal-Website
