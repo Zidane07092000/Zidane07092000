@@ -1,4 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hello 👋</h1>
+
+<figure><embed src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/f23461a6-8112-4d2b-90be-521c696be0d0.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/8692cec3-4b7a-4575-b6cd-e567af44de6f.svg"></embed></figure>
+<figure><embed src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/26f6b000-493f-4288-a017-0d1648a9a7cf.svg"></embed></figure>
 
 <!--
 **Zidane07092000/Zidane07092000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
