@@ -4,9 +4,9 @@ My name is Shirsha Chowdhury. I am a fourth year Undergraduate student at IIT KH
  Link to Personal Website: https://zidane07092000.github.io/Personal-Website
 
 <h2 align="center">My Coding Stats</h2>
-<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/f23461a6-8112-4d2b-90be-521c696be0d0.svg" /> 
-<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/8692cec3-4b7a-4575-b6cd-e567af44de6f.svg" /> 
-<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/26f6b000-493f-4288-a017-0d1648a9a7cf.svg" />  
+<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/5e8d7f61-5538-45c0-9ab7-3480625d0223.svg" /> 
+<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/a8fd8440-fbe7-4d75-8419-f20275d62474.svg" /> 
+<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/ae90860f-4ee7-4783-bb15-de0190c6e84f.svg" />  
 
 
 <!--
