@@ -1,7 +1,9 @@
 <h1 align="center">Hello 👋</h1>
-My name is Shirsha Chowdhury. I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.
 
- Link to Personal Website: https://zidane07092000.github.io/Personal-Website
+<h3>My name is Shirsha Chowdhury.</h3> 
+<p>I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.</p>
+
+<p>Link to Personal Website:<span> https://zidane07092000.github.io/Personal-Website </span> </p>
 <br></br>
 <br></br>
 
