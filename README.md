@@ -2,7 +2,11 @@
 My name is Shirsha Chowdhury. I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.
 
  Link to Personal Website: https://zidane07092000.github.io/Personal-Website
+<br></br>
+<br></br>
 
+<img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=615782de-bdb1-4bae-abb9-633d3e09ab55&custom_title=Today's Coding Stats" />
+<img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane07092000&hide=html,css&layout=compact&langs_count=6" />
 <h2 align="center">My Coding Stats</h2>
 <img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/5e8d7f61-5538-45c0-9ab7-3480625d0223.svg" /> 
 <img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/a8fd8440-fbe7-4d75-8419-f20275d62474.svg" /> 
