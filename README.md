@@ -7,12 +7,18 @@
 <br></br>
 <br></br>
 
-<!-- <img width=100% src="https://github-readme-stats.vercel.app/api/wakatime?username=615782de-bdb1-4bae-abb9-633d3e09ab55&custom_title=Today's Coding Stats" />
+<!-- <img width=100\\% src="https://github-readme-stats.vercel.app/api/wakatime?username=615782de-bdb1-4bae-abb9-633d3e09ab55&custom_title=Today's Coding Stats" />
 <img width=100% src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zidane07092000&hide=html,css&layout=compact&langs_count=6" /> -->
 <h2 align="center">My Coding Stats</h2>
-<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/5e8d7f61-5538-45c0-9ab7-3480625d0223.svg" /> 
-<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/a8fd8440-fbe7-4d75-8419-f20275d62474.svg" /> 
-<img width=100% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/ae90860f-4ee7-4783-bb15-de0190c6e84f.svg" />  
+<div align="center">
+<img width=60% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/5e8d7f61-5538-45c0-9ab7-3480625d0223.svg" /> 
+<img width=60% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/a8fd8440-fbe7-4d75-8419-f20275d62474.svg" /> 
+<img width=60% src="https://wakatime.com/share/@615782de-bdb1-4bae-abb9-633d3e09ab55/ae90860f-4ee7-4783-bb15-de0190c6e84f.svg" />
+</div>
+
+
+
+
 
 
 <!--
