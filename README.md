@@ -1,6 +1,18 @@
-<h1 align="center">Hello 👋</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> Hi, I'm Shirsha Chowdhury</h1>
+<p align="center">SOFTWARE DEVELOPER</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>
 
-<h3>My name is Shirsha Chowdhury.</h3> 
+<br />
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zidane07092000&color=red&style=flat-square" />
+</p>
+
+<br />
+
+
 <p>I am a fourth year Undergraduate student at IIT KHARAGPUR, currently enrolled in the course of Electrical Engineering as my major. I have also completed my minor in Computer Science. I am expected to gradute in the year of 2022.</p>
 
 <p>Link to Personal Website:<span> https://zidane07092000.github.io/Personal-Website </span> </p>
